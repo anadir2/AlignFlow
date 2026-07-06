@@ -1,2 +1,1 @@
-# AlignFlow
-Alignment Studio
+Here are all the generated files.
